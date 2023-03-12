@@ -16,11 +16,11 @@ public class CircleStatus : MonoBehaviour
 
     public void InitCircle()
     {
-        // Tareas de inicialización internas del círculo.
+        // Circle internal initialization.
     }
 
     public void MoveCircle()
     {
-        // Mueve el círculo conforme pase el tiempo.
+        // Circle movement as time passes.
     }
 }
