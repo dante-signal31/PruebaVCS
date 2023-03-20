@@ -22,5 +22,6 @@ public class CircleStatus : MonoBehaviour
     public void MoveCircle()
     {
         // Circle movement as time passes.
+        // Fix told by Alberto.
     }
 }
