@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 namespace DefaultNamespace
@@ -22,6 +23,12 @@ namespace DefaultNamespace
         public static void InteractWithCircle(CircleStatus circle)
         {
             // Get a circle reference and interact with it.
+        }
+
+        private void OnDestroy()
+        {
+            // Start of destroying functionality.
+            // Every other aspect of destroying functionality.
         }
     }
 }
